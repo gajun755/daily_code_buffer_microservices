@@ -1,0 +1,1 @@
+This is same as cqrs example. He not implemented event based microservices using kafka. So I have not perfomed this practical.
